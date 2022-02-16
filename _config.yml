@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
 title: Laura Santer
 description: Laura Santer's Homepage
+github:
+  is_project_page: false
+  is_user_page: false
